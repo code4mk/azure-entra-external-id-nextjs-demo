@@ -93,7 +93,7 @@ export default function LandingPage() {
             </p>
             <p className="mt-2">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/code4mk/azure-entra-external-id-nextjs-demo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800"
